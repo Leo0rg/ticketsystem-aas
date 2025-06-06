@@ -1,0 +1,32 @@
+# Dependency directories
+node_modules
+
+# Turbo cache
+.turbo
+
+# Build artifacts
+.next
+dist
+build
+out
+
+# Version control
+.git
+.github
+
+# IDE files
+.vscode
+
+# OS files
+.DS_Store
+*.swo
+*.swp
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker files
+Dockerfile
+docker-compose.yml 
